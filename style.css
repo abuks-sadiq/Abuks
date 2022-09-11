@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merweather', serif;
+    background-color:   #f8a232 
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+   
+}
+h2{
+    font-family: 'Montsecrat',sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montsecrat',sans-serif;
+}
+
+.middle-container{
+   
+}
+.bottom-container{
+           background-color: grey;
+           padding: 30px 0 20px;
+}
+.mountain{
+width: 100%;
+height: 300px;
+}
+.cloud{
+width: 100%;
+height: 200px;
+padding: 0
+}
+.ok{
+    text-decoration: underline;
+}
+.profile-photo{
+    width: 170px;
+    height: 200px;
+    text-align: left;
+    border-radius: 80%;
+}
+.html-cert{
+    width: 500px;
+    padding-left: 210px;
+    padding-right: 10px;
+}
+.css-cert{
+    width: 500px;
+    padding: 0%;
+}
+hr{
+    border: 5px dotted rgb(255, 36, 7);
+    border-bottom: none;
+    width: 20%;
+}
+
+p{
+    font-size: 20px;
+}
+
+.btn {
+    background: #11Cdd4;
+    background-image: -webkit-linear-gradient(top, #11Cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11Cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11Cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11Cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11Cdd4, #11999e);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  a{
+    font-size: 20px;
+    color: #0567e7;
+    margin: 10px 20px;
+  }
+  a:hover{
+    color: #f8a232;
+  }
+  .zz{
+    padding-top: 30px;
+  }
